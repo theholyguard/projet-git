@@ -34,6 +34,16 @@ Issues template for bugs:
 
 [Ajoutez ici tout autre détail pertinent.]
 
+
+
+
+
+
+
+
+
+
+
 Issues template for features:
 
 ### **Feature Request**
