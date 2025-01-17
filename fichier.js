@@ -1,6 +1,7 @@
 function test() {
-    console.log("Hello World"); // Pas d'indentation et point-virgule manquant
+    console.log("Hello World");
 }
 test();
+print("Hello World");
 print("Hello World");
 print("Hello World");
